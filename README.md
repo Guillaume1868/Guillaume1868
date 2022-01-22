@@ -9,6 +9,7 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/gaubert?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
+>I have no special talent. I am only passionately curious.
 [AniList](https://anilist.co/user/GuillaumeCH/) | [Telegram](https://t.me/Guillaume1868) | Discord: Guillaume#8609
 
 
