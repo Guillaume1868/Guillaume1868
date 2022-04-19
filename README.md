@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying at 42Lausanne
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and cpp
 - 📫 How to contact me: guillaume@aubert.ws
 - 😄 Pronouns: He/Him
 - 🗻 I like Japanese culture
