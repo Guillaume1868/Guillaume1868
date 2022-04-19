@@ -7,8 +7,7 @@
 - 🗻 I like Japanese culture
 - 🎶 I listen to music all the time
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/gaubert?darkmode=true)](https://github.com/JaeSeoKim/badge42)
-
+[![gaubert's 42 stats](https://badge42.vercel.app/api/v2/cl1g0pdbz000609mrgixjjlh3/stats?cursusId=21&coalitionId=192)](https://github.com/JaeSeoKim/badge42)
 >I have no special talent. I am only passionately curious.
 
 [AniList](https://anilist.co/user/GuillaumeCH/) | [Telegram](https://t.me/Guillaume1868) | Discord: Guillaume#8609
